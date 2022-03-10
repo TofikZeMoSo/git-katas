@@ -1,0 +1,13 @@
+git init
+
+git add filrname or git add .
+
+git remote add origin https://github.com/TofikZeMoSo/git-katas.git
+
+git status //for check staging file or untracked files
+
+git commit -m "Initial Commit "
+
+git push origin main 
+
+git checkout -b branch_name // to change branch 
